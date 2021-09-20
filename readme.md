@@ -15,4 +15,4 @@
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shabane/upload-to-telegram/blob/master/upload-to-telegram.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shabane/upload-to-telegram/blob/master/upload_to_telegram.ipynb)
